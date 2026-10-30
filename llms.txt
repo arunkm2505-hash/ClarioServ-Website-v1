@@ -1,0 +1,32 @@
+# ClarioServ
+
+> ClarioServ is a Chennai-based digital, MarTech, data and AI services company. It connects strategy, implementation and ongoing optimisation through one accountable partner, so the people who help define a business problem stay connected to making the solution work.
+
+- Founded by Patric Charles, who has 25+ years in digital, customer experience and marketing technology, including 23 years at a leading digital and MarTech consultancy leading enterprise client portfolios across India, Asia-Pacific and the United States.
+- Sector experience: banking, insurance, telecommunications and retail.
+- Delivery: remote, onsite or hybrid, with working-hour overlap arranged for international clients.
+- Contact: patric@clarioserv.com · +91 98405 54007 · Chennai, India
+
+## Services
+
+- [Digital & MarTech Strategy and Advisory](https://clarioserv.com/services.html#digital-martech-strategy-and-advisory): assessments, journey reviews, use-case prioritisation, platform evaluation, solution architecture and roadmaps.
+- [CRM, Customer Data & CDP](https://clarioserv.com/services.html#crm-customer-data-cdp): CRM and CDP implementation, data integration, identity design, segmentation and activation (Salesforce, HubSpot, Zoho).
+- [Analytics, Measurement & Optimisation](https://clarioserv.com/services.html#analytics-measurement-optimisation): measurement strategy, GA4, Google Tag Manager, Adobe Analytics, server-side tracking, Looker Studio and Power BI reporting.
+- [Marketing Automation & Campaign Operations](https://clarioserv.com/services.html#marketing-automation-campaign-operations): journey design, segmentation, email/SMS/WhatsApp campaigns (Salesforce Marketing Cloud, Adobe, HubSpot, MoEngage, CleverTap, WebEngage).
+- [Performance Marketing & Paid Media](https://clarioserv.com/services.html#performance-marketing-paid-media): media planning and optimisation across Google Ads, Meta, LinkedIn and programmatic.
+- [AI & Intelligent Automation](https://clarioserv.com/services.html#ai-intelligent-automation): AI opportunity assessment, AI/ML implementation, conversational experiences and workflow integration.
+- [Platform Implementation, Integration & Migration](https://clarioserv.com/services.html#platform-implementation-integration-migration): implementation, integrations, migrations and launch support.
+- [Managed Services & Continuous Optimisation](https://clarioserv.com/services.html#managed-services-continuous-optimisation): platform administration, campaign operations, monitoring and optimisation.
+- [Specialist Talent & Managed Capacity](https://clarioserv.com/services.html#specialist-talent-managed-capacity): dedicated specialists, project teams or short-term expert support.
+
+## How engagements work
+
+- [How We Work](https://clarioserv.com/how-we-work.html): a four-stage loop (Clarify, Blueprint, Build, Run & Optimise); clients can start at any stage.
+- [Engagements](https://clarioserv.com/engagements.html): starter options (MarTech or analytics audit, CRM and automation health check, AI use-case sprint of typically two to four weeks); consulting, implementation, managed services or specialist capacity; fixed price, time and materials, dedicated FTE or retainer.
+
+## About
+
+- [Why ClarioServ](https://clarioserv.com/why-us.html): one accountable partner from strategy to results; senior experts do the work; big-firm expertise without big-firm overhead.
+- [About](https://clarioserv.com/about.html): company story, founder profile and working principles.
+- [Contact](https://clarioserv.com/contact.html): enquiry form and contact details.
+- [Home and FAQ](https://clarioserv.com/#faq): common questions about services, location, engagements, platforms and pricing.
